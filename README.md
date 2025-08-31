@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Maraa123&theme=tokyonight&hide_border=true&locale=es" alt="Racha de GitHub" />
+  </a>
+</p>
+
 <!--
 **Maraa123/Maraa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
